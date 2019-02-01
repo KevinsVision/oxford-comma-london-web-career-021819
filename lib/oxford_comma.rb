@@ -11,7 +11,7 @@ def oxford_comma(array)
   array.join
 else
   array[-1] = "and #{array[-1]}"
-  array.insert(4, "and ")
+  #array.insert(4, "and ")
     array.join(", ")
   end
 end
