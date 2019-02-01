@@ -15,7 +15,7 @@ else
   array.insert(5, ", ")
   array.insert(7, ", ")
   array.insert(8, "and ")
-  array.insert(9, ", ")
+  array.insert(9, "")
   #array.insert(9, ", ")
   #array.insert(11, ", ")
   #array.insert(13, ", ")
