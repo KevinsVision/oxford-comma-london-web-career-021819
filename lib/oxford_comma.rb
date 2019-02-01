@@ -12,7 +12,7 @@ def oxford_comma(array)
 else
   array.insert(1, ", ")
   array.insert(3,", ")
-  array.insert(4, "and ")
+  array.insert(4, ", ")
   array.insert(5, ", ")
   array.insert(7, ", ")
   #array.insert(9, ", ")
